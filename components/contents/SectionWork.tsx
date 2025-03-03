@@ -16,7 +16,7 @@ export const SectionWork = () => {
     const bg = theme === 'light' ? 'bg-black' : 'bg-white';
 
     const events = [
-        { year: 'Full Stack Developer | 11/12/2024 - 5/3/2025', title: 'Elegance Consultant Co.,Ltd.', description: 'Full Stack Developer with Devops and CI/CD', details: ['SingleSignOn (KeyCloak Provider)', 'SSO Client Realm Management (NextJS)'] },
+        { year: 'Full Stack Developer | 11/12/2024 - 5/3/2025', title: 'Elegance Consultant Co.,Ltd.', description: 'Full Stack Developer with Devops and CI/CD', details: ['SingleSignOn (KeyCloak Provider)', 'SSO Client Realm Management (NextJS)', 'Authentication Feat. SSO'] },
         { year: 'Student Project | 2023', title: 'Development of A Management System For Teaching Materials', description: 'Management durable articles of Science and Technology faculty, add the durable articles to the system, lending and return, fixing, sale and tracking', details: ['Design the database (MySQL)', 'Coding in PHP, JavaScript, J-Query, AJAX', 'Manual Testing'] },
         { year: 'Application Developer | 2022', title: 'STS System & Development Co, Ltd', description: '', details: ['Programming the Auto e-GP (Thai Government Procurement)', 'Convert Database (Access to MariaDB)', 'IT-Support (Network and Server, Install and Update OS, Hardware)', 'Customer-Support', 'Assistance (Developer, Design UX/UI for the website, Web service-Planning)'] }
     ];
