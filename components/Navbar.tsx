@@ -8,7 +8,7 @@ const navigation = [
     { name: 'Work', href: '#work', current: false },
     { name: 'Projects', href: '#projects', current: false },
     { name: 'Contact', href: '#contact', current: false },
-    { name: 'Resume', href: 'https://drive.google.com/file/d/1swHOBUHhctpLMTpQUuAtTt0TEfsRmnkD/view?usp=sharing', current: false, target: '_blank' },
+    { name: 'Resume', href: 'https://drive.google.com/file/d/10YmfRe_rClxQ8uak2nFdbwY2y-mdpOpR/view?usp=sharing', current: false, target: '_blank' },
 ]
 
 function classNames(...classes: string[]) {
