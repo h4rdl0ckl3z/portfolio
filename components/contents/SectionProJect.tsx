@@ -17,7 +17,7 @@ export const SectionProject = async () => {
                             <Image src={project.img || logo} width={200} height={300} alt={`Screenshot of ${project.title}`} className="mb-4 rounded" />
                             <h3 className="text-xl font-bold mb-2">{project.title}</h3>
                             <p className="mb-4">{project.description}</p>
-                            {project.link && <a href={`/project/${index}`} className="text-blue-500 hover:underline">View Project</a>}
+                            {project.link && <a href={`/portfolio/project/${index}`} className="text-blue-500 hover:underline">View Project</a>}
                         </div>
                     ))}
                 </div>
