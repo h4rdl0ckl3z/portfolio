@@ -3,12 +3,12 @@ import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline'
 import SwitchTheme from './SwitchTheme'
 
 const navigation = [
-    { name: 'Home', href: '/portfolio', current: false },        //push project on github path /portfolio default
+    { name: 'Home', href: '', current: false },        //push project on github path /portfolio default
     { name: 'About', href: '#about', current: false },
     { name: 'Work', href: '#work', current: false },
     { name: 'Projects', href: '#projects', current: false },
     { name: 'Contact', href: '#contact', current: false },
-    { name: 'Resume', href: 'https://drive.google.com/file/d/10YmfRe_rClxQ8uak2nFdbwY2y-mdpOpR/view?usp=sharing', current: false, target: '_blank' },
+    { name: 'Resume', href: 'https://drive.google.com/file/d/1uWbgp8IZfEcf899MLQcgTa9QlPuYE3WA/view?usp=sharing', current: false, target: '_blank' },
 ]
 
 function classNames(...classes: string[]) {

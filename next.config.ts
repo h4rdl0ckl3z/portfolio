@@ -6,7 +6,8 @@ const nextConfig: NextConfig = {
   images: { unoptimized: true },
   eslint: {
     ignoreDuringBuilds: true,
-  }
+  },
+  basePath: '/portfolio'
 };
 
 export default nextConfig;
