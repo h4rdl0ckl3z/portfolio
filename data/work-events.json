@@ -4,8 +4,8 @@
     "title": "Elegance Consultant Co.,Ltd.",
     "description": "Full Stack Developer with Devops",
     "details": [
-      "SingleSignOn (KeyCloak Provider)",
-      "SSO Client Realm Management (NextJS)",
+      "SingleSignOn Service (C# .NET, Keycloak API)",
+      "SSO Client Realm Management (NextJS, Keycloak Admin REST API)",
       "Authentication Feat. SSO (C# .NET)"
     ]
   },
