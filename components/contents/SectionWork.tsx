@@ -49,9 +49,9 @@ export const SectionWork = () => {
     );
 
     return (
-        <section id="work" className="py-20">
+        <section id="works" className="py-20">
             <div className="mx-auto text-center">
-                <h2 className="text-3xl font-bold mb-4">Work</h2>
+                <h2 className="text-3xl font-bold mb-4">Works</h2>
             </div>
             <div className="relative py-4 pr-4">
                 <div className={classNames('absolute left-1/2 transform -translate-x-1/2 h-full border-l-2', isClient ? border : 'border-transparent')}></div>

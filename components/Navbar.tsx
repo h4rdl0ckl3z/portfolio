@@ -5,7 +5,7 @@ import SwitchTheme from './SwitchTheme'
 const navigation = [
     { name: 'Home', href: '/portfolio', current: false },        //push project on github path /portfolio default
     { name: 'About', href: '#about', current: false },
-    { name: 'Work', href: '#work', current: false },
+    { name: 'Works', href: '#works', current: false },
     { name: 'Projects', href: '#projects', current: false },
     { name: 'Contact', href: '#contact', current: false },
     { name: 'Resume', href: '', current: false, target: '_blank' },
