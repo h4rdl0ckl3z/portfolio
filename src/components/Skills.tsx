@@ -1,11 +1,11 @@
-import { Code, Terminal, Shield, Wrench, Cpu, Network } from 'lucide-react';
+import { Code, Terminal, Shield, Wrench, Cpu, Network, Frame } from 'lucide-react';
 
 export default function Skills() {
   const skillCategories = [
     {
       icon: Code,
       title: 'Programming Languages',
-      skills: ['JavaScript', 'TypeScript', 'Python', 'PHP', 'Node.js'],
+      skills: ['JavaScript', 'TypeScript', 'Python', 'PHP', 'Java', 'C#'],
       color: 'cyan',
     },
     {
@@ -23,13 +23,13 @@ export default function Skills() {
     {
       icon: Wrench,
       title: 'Development Tools',
-      skills: ['Git', 'API Development', 'Automation', 'Discord Bots'],
+      skills: ['Git', 'API Development', 'Automation', 'CI/CD'],
       color: 'orange',
     },
     {
       icon: Cpu,
       title: 'Specializations',
-      skills: ['e-Government Systems', 'API Integration', 'Real-time Systems', 'TikTok Live API'],
+      skills: ['e-Government Systems', 'API Integration', 'Real-time Systems'],
       color: 'violet',
     },
     {
