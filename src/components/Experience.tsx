@@ -52,7 +52,6 @@ export default function Experience() {
       period: '2022',
       achievements: [
         'Development of A Management System For Teaching Materials',
-        'Management System for Teaching Materials',
         'Database design and implementation',
         'Full stack development (PHP, JavaScript, jQuery, AJAX, Bootstrap, MySQL)',
         'Manual testing',
