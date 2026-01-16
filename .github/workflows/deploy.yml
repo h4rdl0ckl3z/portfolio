@@ -33,3 +33,5 @@ jobs:
       with:
         folder: dist  # Vite's default build folder
         branch: gh-pages  # The branch GitHub Pages uses
+    - name: Deploy
+      run: npm run deploy
