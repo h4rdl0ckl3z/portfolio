@@ -5,7 +5,7 @@ export default function Projects() {
     {
       name: 'AuthServer',
       description: 'Guideline Authorization Server With Spring Boot 4.0.1 & Spring Security 7.0.2',
-      language: 'Java 25',
+      language: 'Java',
       stars: 0,
       forks: 0,
       url: 'https://github.com/h4rdl0ckl3z/AuthServer',
