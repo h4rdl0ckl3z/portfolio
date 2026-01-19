@@ -3,6 +3,15 @@ import { ExternalLink, Star, GitFork, Code } from 'lucide-react';
 export default function Projects() {
   const projects = [
     {
+      name: 'AuthServer',
+      description: 'Guideline Authorization Server With Spring Boot 4.0.1 & Spring Security 7.0.2',
+      language: 'Java 25',
+      stars: 0,
+      forks: 0,
+      url: 'https://github.com/h4rdl0ckl3z/AuthServer',
+      featured: true,
+    },
+    {
       name: 'e-GP_Module',
       description: 'e-GP (Thai e-Government Procurement) Module - A comprehensive solution for Thai government procurement systems.',
       language: 'JavaScript',
