@@ -4,7 +4,7 @@ export default function Projects() {
   const projects = [
     {
       name: 'AuthServer',
-      description: 'Guideline Authorization Server With Spring Boot 4.0.1 & Spring Security 7.0.2',
+      description: 'Guideline Authorization Server With Spring Boot 4.0.2 & Spring Security 7.0.2',
       language: 'Java',
       stars: 0,
       forks: 0,
