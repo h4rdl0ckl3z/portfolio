@@ -3,6 +3,17 @@ import { Briefcase, Calendar, Building } from 'lucide-react';
 export default function Experience() {
   const experiences = [
     {
+      role: 'Developer',
+      company: 'UnCompany',
+      period: '12/01/2026 - Current',
+      achievements: [
+        'Development planning of RepiarShopPlatform',
+		'Learning tech stack in Development',
+		'Design Database Schema'
+      ],
+      isCurrent: true,
+    },
+    {
       role: 'Full Stack Developer',
       company: 'ELEGANCE CONSULTANT Co., Ltd.',
       period: '12/2024 - 3/2025',
