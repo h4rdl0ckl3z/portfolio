@@ -29,19 +29,19 @@ export default function About() {
             <p className="text-lg text-slate-300 leading-relaxed">
               My work focuses on:
             </p>
-            <p>
+            <span>
                 Understanding how systems actually behave (beyond documentation)
                 Reconstructing workflows from real interactions
                 Building reliable automation and end-to-end solutions
-            </p>
+            </span>
             <p className="text-lg text-slate-300 leading-relaxed">
               I bridge the gap between:
             </p>
-            <p>
+            <span>
                 📄 Documentation
                 ⚙️ Real system behavior
                 💻 Production-ready applications
-            </p>
+            </span>
           </div>
 
           <div className="grid grid-cols-2 gap-4">
