@@ -31,8 +31,12 @@ export default function Hero() {
 
         <p className="text-lg md:text-xl text-slate-400 mb-12 max-w-2xl mx-auto leading-relaxed">
           I analyze how systems really work — then build solutions on top of that understanding.
-          🔍 Reverse Engineer / Automation Developer / Full Stack Developer
-          ⚙️ Specialized in system analysis, automation, and end-to-end development
+          <p>
+            🔍 Reverse Engineer / Automation Developer / Full Stack Developer
+          </p>
+          <p>
+            ⚙️ Specialized in system analysis, automation, and end-to-end development
+          </p>
         </p>
 
         <div className="flex gap-4 justify-center mb-16">
