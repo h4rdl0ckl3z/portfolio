@@ -28,12 +28,16 @@ export default function About() {
             </p>
             <p className="text-lg text-slate-300 leading-relaxed">
               My work focuses on:
+            </p>
+            <p>
                 Understanding how systems actually behave (beyond documentation)
                 Reconstructing workflows from real interactions
                 Building reliable automation and end-to-end solutions
             </p>
             <p className="text-lg text-slate-300 leading-relaxed">
               I bridge the gap between:
+            </p>
+            <p>
                 📄 Documentation
                 ⚙️ Real system behavior
                 💻 Production-ready applications
