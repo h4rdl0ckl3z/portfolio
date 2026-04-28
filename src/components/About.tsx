@@ -21,19 +21,22 @@ export default function About() {
         <div className="grid md:grid-cols-2 gap-12 items-center mb-16">
           <div className="space-y-6">
             <p className="text-lg text-slate-300 leading-relaxed">
-              Welcome! I'm a passionate developer and reverse engineer based in Thailand.
-              I specialize in understanding how software works at its core, building robust tools,
-              and creating automation solutions that solve real-world problems.
+              I am a Reverse Engineer and Automation Developer with Full Stack development capabilities.
             </p>
             <p className="text-lg text-slate-300 leading-relaxed">
-              With expertise in multiple programming languages including JavaScript, TypeScript,
-              Python, and PHP, I focus on creating practical solutions and exploring the inner
-              workings of complex systems.
+              I specialize in analyzing system behavior — from documented APIs to real-world execution — and transforming that understanding into automation tools and full-stack applications.
             </p>
             <p className="text-lg text-slate-300 leading-relaxed">
-              My work includes developing e-Government procurement modules, API integrations,
-              and various automation tools. I'm particularly interested in security concepts
-              and software internals.
+              My work focuses on:
+                Understanding how systems actually behave (beyond documentation)
+                Reconstructing workflows from real interactions
+                Building reliable automation and end-to-end solutions
+            </p>
+            <p className="text-lg text-slate-300 leading-relaxed">
+              I bridge the gap between:
+                📄 Documentation
+                ⚙️ Real system behavior
+                💻 Production-ready applications
             </p>
           </div>
 
