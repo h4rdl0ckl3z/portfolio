@@ -29,19 +29,37 @@ export default function About() {
             <p className="text-lg text-slate-300 leading-relaxed">
               My work focuses on:
             </p>
-            <span>
-                Understanding how systems actually behave (beyond documentation)
-                Reconstructing workflows from real interactions
-                Building reliable automation and end-to-end solutions
-            </span>
+            <ul className="space-y-2 ml-4">
+              <li className="text-slate-300 flex items-start">
+                <span className="mr-3">•</span>
+                <span>Understanding how systems actually behave (beyond documentation)</span>
+              </li>
+              <li className="text-slate-300 flex items-start">
+                <span className="mr-3">•</span>
+                <span>Reconstructing workflows from real interactions</span>
+              </li>
+              <li className="text-slate-300 flex items-start">
+                <span className="mr-3">•</span>
+                <span>Building reliable automation and end-to-end solutions</span>
+              </li>
+            </ul>
             <p className="text-lg text-slate-300 leading-relaxed">
               I bridge the gap between:
             </p>
-            <span>
-                📄 Documentation
-                ⚙️ Real system behavior
-                💻 Production-ready applications
-            </span>
+            <ul className="space-y-2 ml-4">
+              <li className="text-slate-300 flex items-start">
+                <span className="mr-3">📄</span>
+                <span>Documentation</span>
+              </li>
+              <li className="text-slate-300 flex items-start">
+                <span className="mr-3">⚙️</span>
+                <span>Real system behavior</span>
+              </li>
+              <li className="text-slate-300 flex items-start">
+                <span className="mr-3">💻</span>
+                <span>Production-ready applications</span>
+              </li>
+            </ul>
           </div>
 
           <div className="grid grid-cols-2 gap-4">
