@@ -2,8 +2,8 @@ import { Code, Users, Star, GitFork } from 'lucide-react';
 
 export default function About() {
   const stats = [
-    { icon: Code, label: 'Public Repos', value: '20' },
-    { icon: Star, label: 'Total Stars', value: '37' },
+    { icon: Code, label: 'Public Repos', value: '22' },
+    { icon: Star, label: 'Total Stars', value: '6' },
     { icon: Users, label: 'Followers', value: '6' },
     { icon: GitFork, label: 'Following', value: '5' },
   ];
